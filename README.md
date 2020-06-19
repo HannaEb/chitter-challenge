@@ -2,20 +2,20 @@
 
 [![Coverage Status](https://coveralls.io/repos/github/HannaEb/chitter-challenge/badge.svg?branch=master)](https://coveralls.io/github/HannaEb/chitter-challenge?branch=master)
 
-##CHITTER CHALLENGE
+# CHITTER CHALLENGE
 
 
-#About
+## About
 
 Twitter clone. Sign up, log in and peep your very own peep!
 
 
-#Motivation
+## Motivation
 
 Fourth weekend challenge, forked from MakersAcademy.
 
 
-#User Stories
+## User Stories
 
 ```
 As a Maker
@@ -44,7 +44,7 @@ I want to log out of Chitter
 ```
 
 
-#Installation Instructions
+## Installation Instructions
 
 ```
 $ git clone https://github.com/HannaEb/chitter_challenge
@@ -56,16 +56,16 @@ $ rackup
 ```
 
 
-#Testing
+## Testing
 
 To run all the tests, simply run `rspec` in your terminal.
 
 
-#Progress
+## Progress
 
 Public interface needs to be improved.
 
 
-#Author
+## Author
 
 HannaEb
